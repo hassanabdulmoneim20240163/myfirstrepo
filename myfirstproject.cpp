@@ -4,6 +4,6 @@ using namespace std;
 
 int main()
 {
-    cout << "This is my first project. That's nice";
+    cout << "This is my first project";
     return 0;
 }
